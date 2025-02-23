@@ -1,0 +1,27 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AAsyncTaskMethodBuilder_00601_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003F_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FDecompilerCache_003Fdecompiler_003F0916d17f52004633a3b8b4afaa508f70e8e8a0_003F27_003F307ac0ea_003FAsyncTaskMethodBuilder_00601_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0776a457_002D8469_002D4d04_002Db4b2_002Db002669d4309/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetTodos_ReturnsOkResult_WithTodosList" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::5187D25F-8CF7-431E-85CA-8CAC0E3EC9D3::net9.0::TodoList.Tests.Controllers.TodoControllerTests.GetTodos_ReturnsOkResult_WithTodosList&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7659d523_002D7cd6_002D492f_002Da251_002D75382286e82b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CreateTodo_WithInvalidRequest_ReturnsBadRequest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::5187D25F-8CF7-431E-85CA-8CAC0E3EC9D3::net9.0::TodoList.Tests.Controllers.TodoControllerTests.CreateTodo_WithInvalidRequest_ReturnsBadRequest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5187D25F-8CF7-431E-85CA-8CAC0E3EC9D3::net9.0::TodoList.Tests.Controllers.TodoControllerTests.CreateTodo_WithValidRequest_ReturnsCreatedAtAction&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5187D25F-8CF7-431E-85CA-8CAC0E3EC9D3::net9.0::TodoList.Tests.Controllers.TodoControllerTests.GetTodo_WithInvalidId_ReturnsNotFound&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5187D25F-8CF7-431E-85CA-8CAC0E3EC9D3::net9.0::TodoList.Tests.Controllers.TodoControllerTests.GetTodo_WithValidId_ReturnsOkResult&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5187D25F-8CF7-431E-85CA-8CAC0E3EC9D3::net9.0::TodoList.Tests.Controllers.TodoControllerTests.UpdateTodo_WithValidRequest_ReturnsNoContent&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5187D25F-8CF7-431E-85CA-8CAC0E3EC9D3::net9.0::TodoList.Tests.Controllers.TodoControllerTests.UpdateTodo_WithInvalidRequest_ReturnsBadRequest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5187D25F-8CF7-431E-85CA-8CAC0E3EC9D3::net9.0::TodoList.Tests.Controllers.TodoControllerTests.DeleteTodo_WithValidId_ReturnsNoContent&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5187D25F-8CF7-431E-85CA-8CAC0E3EC9D3::net9.0::TodoList.Tests.Controllers.TodoControllerTests.DeleteTodo_WhenExceptionThrown_ReturnsInternalServerError&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5187D25F-8CF7-431E-85CA-8CAC0E3EC9D3::net9.0::TodoList.Tests.Controllers.TodoControllerTests.GetTodos_ReturnsOkResult_WithTodosList&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5187D25F-8CF7-431E-85CA-8CAC0E3EC9D3::net9.0::TodoList.Tests.Controllers.AuthControllerTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5187D25F-8CF7-431E-85CA-8CAC0E3EC9D3::net9.0::TodoList.Tests.Controllers.TodoControllerTests.GetTodo_WithDifferentUserId_ReturnsUnauthorized&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5187D25F-8CF7-431E-85CA-8CAC0E3EC9D3::net9.0::TodoList.Tests.Controllers.TodoControllerTests.UpdateTodo_WithDifferentUserId_ReturnsUnauthorized&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::5187D25F-8CF7-431E-85CA-8CAC0E3EC9D3::net9.0::TodoList.Tests.Controllers.TodoControllerTests.DeleteTodo_WithDifferentUserId_ReturnsUnauthorized&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=eac91372_002D757e_002D4f70_002Db19a_002Daef1f31f29c6/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="TodoControllerTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;ProjectFolder&gt;5187D25F-8CF7-431E-85CA-8CAC0E3EC9D3/d:Controllers&lt;/ProjectFolder&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
